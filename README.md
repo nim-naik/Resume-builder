@@ -1,1 +1,2 @@
 # Resume-builder
+Introducing our Resume App Builder—a streamlined tool for creating, previewing, printing, and downloading resumes. Developed using HTML, CSS, JavaScript, and jQuery, this user-friendly app offers interactive editing, dynamic previews, and real-time updates. With a responsive design, it ensures a consistent experience on various devices. Simply build, preview, and download your resume hassle-free with our efficient and straightforward Resume App Builder.
